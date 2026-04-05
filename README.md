@@ -1,4 +1,5 @@
 ##Automating Employee Data
+
 ##Overview
 
 The Automating Employee Data project is a web-based dashboard designed to simplify and automate employee record management.
